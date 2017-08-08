@@ -42,3 +42,7 @@ p {
 footer {
     background-color: dimgray;
 }
+
+ul#navigation { 
+    list-style-type: none;
+}
