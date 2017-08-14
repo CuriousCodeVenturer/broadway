@@ -2,11 +2,11 @@ body {
     display: inline-block;
     text-align: center;
     font-family: Helvetica;
-    background-color: gray;
+    background-color: white;
 }
 
 header {
-    background: url();
+    background-image: url("../images/the-flatiron-building.png");
 }
 
 h1 {
@@ -31,8 +31,6 @@ h4 {
     font-weight: bold;
 }
 
-}
-
 p {
     font-size: 14px;
 }
@@ -41,10 +39,9 @@ footer {
     background-color: dimgray;
 }
 
-ul#navigation { 
+#navigation { 
     list-style-type: none;
-
 }
-.container {
-    background: url("the-flatiron-building.png");
+.lower-container {
+    background-image: url("../images/the-flatiron-building.png");
 }
